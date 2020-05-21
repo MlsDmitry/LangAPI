@@ -1,0 +1,6 @@
+name: Lang API
+antigen: mlsdmitry\LangAPI
+api: [3.0.0, 3.12.2, 4.0.0]
+version: 0.4.5
+author: MlsDmitry
+php: [7.2]
