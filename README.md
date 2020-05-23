@@ -9,7 +9,7 @@ new \mlsdmitry\LangAPI\Lang($this);
 ```
 Then call wherever you need to send message to player
 ```php 
-Lang::get('message-from-yml', array_of_replaces, $player)
+Lang::get('message-from-yml', $array_of_replaces, $player)
 ``` 
 ###### $player need to get player's native lang.
 # Example <br>
