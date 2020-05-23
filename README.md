@@ -11,9 +11,9 @@ Then call wherever you need to send message to player
 ```php 
 Lang::get('message-from-yml', array_of_replaces, $player)
 ``` 
-######$player need to get player's native lang.
-#Example
-#####en_EN.yml:
+###### $player need to get player's native lang.
+#Example <br>
+##### en_EN.yml:
 ```yaml
 player-offline: "Player {nickname} is offline"
 ```
