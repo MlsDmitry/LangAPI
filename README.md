@@ -1,7 +1,7 @@
 # LangAPI
 Lang API 
 #DEPENDS [LangInitializer](https://github.com/MlsDmitry/LocalInitializer) <br>
-#**Usage**
+#**Usage** <br>
 Create an instance of Lang object and pass Plugin implemented object. 
 Just your main(that extends from PluginBase) class 
 ```php
